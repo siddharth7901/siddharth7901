@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on [arduino-based-hand-gesture-control](https://github.com/siddharth7901/arduino-based-hand-gesture-control)
 
-- 🌱 I’m currently learning **Everything**
+- 🌱 I’m currently learning **C++**
 
 - 📫 How to reach me **siddharthkumar8010@gmail.com**
 
